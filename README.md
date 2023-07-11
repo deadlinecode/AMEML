@@ -8,7 +8,7 @@
 ## Requirements
 You need to have Amazon Music installed
 <br />
-You can get the installer [here](www.amazon.de/Amazon-Music-für-PC-Download/dp/B00CTTEKJW)
+You can get the installer [here](https://amazon.de/Amazon-Music-für-PC-Download/dp/B00CTTEKJW)
 <br />
 <br />
 The programm also needs admin rights so be sure to run this on a PC with admin rights or alternaitvely in a sandbox with internet connection
