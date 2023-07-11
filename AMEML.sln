@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMEML", "AMEML\AMEML.csproj", "{6095B95A-D5AE-4BCE-A2A9-0D8998B55A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6095B95A-D5AE-4BCE-A2A9-0D8998B55A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6095B95A-D5AE-4BCE-A2A9-0D8998B55A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6095B95A-D5AE-4BCE-A2A9-0D8998B55A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6095B95A-D5AE-4BCE-A2A9-0D8998B55A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C8895C5-6E61-45EF-9A8D-754070FE5877}
+	EndGlobalSection
+EndGlobal
